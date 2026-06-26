@@ -46,6 +46,7 @@ Unauthorized use of this software on servers you do not own may violate:
 - Minecraft Server EULA
 - Your conscience
 
+
 You are responsible for how you use this.
 
 ---
